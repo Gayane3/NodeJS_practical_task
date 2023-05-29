@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Hamlet",
+    "author": "William Shakespeare"
+  },
+  {
+    "id": 2,
+    "name": "The Stranger",
+    "author": "Albert Camus"
+  },
+  {
+    "id": 3,
+    "name": "The Sun Also Rises",
+    "author": "Ernest Hemingway"
+  },
+  {
+    "id": 4,
+    "name": "Candide",
+    "author": "Voltaire"
+  }
+]
